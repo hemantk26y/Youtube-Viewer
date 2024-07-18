@@ -31,11 +31,7 @@ Simple program to increase YouTube views written in Python. Works with live stre
 **Cons:** There will be some view drop always. 
 
 # Support
-   Consider a donation to keep this project alive and for the countless hours of works and testing :)
-   
-  **PayPal :** https://paypal.me/mshawon1
-  
-  **Bitcoin :** `1Jh8KZ6khuHayNDeVV9tEzYSq9FPExKCAH`
+   Consider a donation to keep this project alive and for the countless hours of works and testing :
 
 # Topics
 [Requirements](https://github.com/MShawon/YouTube-Viewer#requirements)  
@@ -66,7 +62,7 @@ Simple program to increase YouTube views written in Python. Works with live stre
 
 
 # Requirements
- * **Python 3.7.x-3.11.x**
+ * **Python 3.7.x-3.12.x**
  * High speed Internet Connection
  * Good proxy list (http, https, socks4, socks5)
  * Google Chrome installed on your OS (not Chromium)
